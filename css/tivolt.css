@@ -7,3 +7,24 @@
 .slide-custom{
     margin-top: 60px;
 }
+
+.slide-image{
+    width: 1200px;
+    height: 500px;
+}
+
+.content-custom{
+    margin-top: 30px;
+}
+
+.footer{
+    background-color: #555;
+    border-radius: 5px;
+    height: 150px;
+    margin-top: 20px;
+}
+
+.table-custom{
+    border-radius: 5px;
+    background-color: #fff;
+}
