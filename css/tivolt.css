@@ -37,3 +37,40 @@
     background-color: rgba(0,0,0,0.5); 
     border-radius: 10px;
 }
+
+.space-custom{
+    margin-top: 20px;  
+}
+
+.image-gallery-background p{
+    postion: relative;
+    color: #fff;
+    text-align: center;
+}
+
+.image-gallery-background{
+    positon: relative;
+    width: 250px;
+    height: 288px;
+    background-color: #000;
+    opacity: 0.7;
+}
+
+.name-href:link{
+ text-decoration: none;
+ color: inherit;
+}
+
+.name-href:hover{
+ text-decoration: none;
+ color: inherit;
+}
+
+.name-href:visited{
+ text-decoration: none;
+ color: inherit;
+}
+
+.padded{
+padding: 3px;
+}
